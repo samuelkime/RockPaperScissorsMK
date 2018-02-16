@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 10px;
+}
+h3 {
+    text-align: center;
+    color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 10px;
+}
+p {
+    text-align: center;
+    color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 10px;
+}
+body {
+    background-image: url(https://img00.deviantart.net/36e7/i/2011/305/5/0/mk__test_your_might_hd_remake_by_tremor209-d4epqz0.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
